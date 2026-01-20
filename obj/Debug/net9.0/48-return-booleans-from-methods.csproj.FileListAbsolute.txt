@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\bin\Debug\net9.0\48-return-booleans-from-methods.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\bin\Debug\net9.0\48-return-booleans-from-methods.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\bin\Debug\net9.0\48-return-booleans-from-methods.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\bin\Debug\net9.0\48-return-booleans-from-methods.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\bin\Debug\net9.0\48-return-booleans-from-methods.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\48-return-booleans-from-methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\48-return-booleans-from-methods.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\48-return-booleans-from-methods.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\48-return-booleans-from-methods.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\48-return-booleans-from-methods.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\refint\48-return-booleans-from-methods.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\48-return-booleans-from-methods.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\48-return-booleans-from-methods.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\48-return-booleans-from-methods\obj\Debug\net9.0\ref\48-return-booleans-from-methods.dll
