@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("48-return-booleans-from-methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0db86f49f3b2c28951e3d4a17688926c327e9c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("48-return-booleans-from-methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("48-return-booleans-from-methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
